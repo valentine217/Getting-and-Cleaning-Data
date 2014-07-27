@@ -1,7 +1,4 @@
 Getting-and-Cleaning-Data
-Qiang MENG
-qmeng1987@gmail.com
-2014.7.27
 =========================
 
 Getting and Cleaning Data Course Project
@@ -18,4 +15,5 @@ The text file contains the required tidy dataset for submission.
 UCI HAR Dataset:
 This folder contains the input data.
 
-CodeBook.md A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data
+CodeBook.md:
+A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data
